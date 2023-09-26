@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ cayman.theme }}";
+@import "{{ cayman }}";
 .page-header {
     color: #fff;
     text-align: center;
