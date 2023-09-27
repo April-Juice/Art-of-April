@@ -7,9 +7,9 @@
 
   [2020](#2d-2020)
   
-  [2021]
+  [2021](#2d-2021)
   
-  [2022]
+  [2022](#2d-2022)
   
   [2023]
   
@@ -33,6 +33,7 @@
 ### 2D 2019
 
   <a id="original purple mermaid"> </a>
+
 ![Image of purple mermaid](IMG_1008.jpeg)
 
 Novemeber 9, 2019 | Digital
@@ -75,6 +76,8 @@ Halloween! Spooky Month~
 
 ---
 
+### 2D 2021
+
 ![Image of girl holdingi blue flower](IMG_1218.jpeg)
 
 January 11, 2021 | Digital
@@ -107,5 +110,29 @@ Redrawing of the
 <a href="#original purple mermaid"> original purple mermaid</a>
 
 ---
+
+![Image of Minecraft-Enderman-themed girl](Endymian.png)
+
+June 17, 2021 | Digital
+
+Imagine roleplaying in Minecraft (I could never).
+
+---
+
+![Image of George Washington sweater]
+
+December 16, 2021 | Print and Color Pencil on Paper
+
+George Washington 😍
+
+---
+
+### 2D 2022
+
+![Image of slightly sinister girl throwing cards](F1B30EFD-A3FD-4F29-A064-EC03CDB5D693.jpeg)
+
+January 22, 2022 | Digital
+
+Composition so slay. Last drawing on my old ipad mini 🥺
 
 ## 3D Artwork
