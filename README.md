@@ -32,8 +32,8 @@
 
 ### 2D 2019
 
-![Image of purple mermaid](IMG_1008.jpeg)
   <a id="original purple mermaid"> </a>
+![Image of purple mermaid](IMG_1008.jpeg)
 
 Novemeber 9, 2019 | Digital
 
