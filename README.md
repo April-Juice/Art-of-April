@@ -391,14 +391,14 @@ My first blender render. So pretty!
 
 Here are some super duper cool artists that you should totally go check out:
 
-1. ![@olive.hleaf on Instagram](https://www.instagram.com/olive.hleaf)
+1. [@olive.hleaf on Instagram](https://www.instagram.com/olive.hleaf)
 
-2. ![@gh0stlh on Instagram](https://www.instagram.com/gh0stlh/)
+2. [@gh0stlh on Instagram](https://www.instagram.com/gh0stlh/)
 
-3. ![@catxyi on Instagram](https://www.instagram.com/catxyi/)
+3. [@catxyi on Instagram](https://www.instagram.com/catxyi/)
 
 ### Additional Very Important Top Priority Information
 
 ![Thumbs up with a lot of fingers](IMG_2981.jpeg)
 
-Me to myself after I make this so interesting and difficult website.
+Me to myself after I made this so interesting and difficult website.
