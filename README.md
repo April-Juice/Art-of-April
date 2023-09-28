@@ -1,7 +1,7 @@
 # Art of April
 
 ## Index
-### <a href="2d artwork link">2D Artwork</a>
+### [2D Artwork ☆](#2d-artwork)
 
   [2019](#2d-2019)
 
@@ -13,7 +13,7 @@
   
   [2023](#2d-2023)
   
-### [3D Artwork](#3d-artwork)
+### [3D Artwork ☆](#3d-artwork)
 
   [2020](#3d-2020)
   
@@ -23,7 +23,7 @@
   
   [2023](#3d-2023)
 
-### [MORE](#more)
+### [MORE ☆](#more)
 
   [Other Artists](#other-artists)
 
@@ -33,8 +33,6 @@
 
 
 
-
-  <a id="2d artwork link"> </a>
 
 ## 2D Artwork
 
