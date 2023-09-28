@@ -1,4 +1,18 @@
+---
+---
+
+@import "{{ cayman@v0.2.0 }}";
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #ffecb3, #159957)
+}
+
+
 # Art of April
+
+<h2 class="project-tagline">Art I made, both 2D and 3D throughout the years.</h2>
 
 ## Index
 ### [2D Artwork ☆](#2d-artwork)
