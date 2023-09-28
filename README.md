@@ -1,7 +1,7 @@
 # Art of April
 
-### Index
-[2D Artwork](#2d-artwork)
+## Index
+### [2D Artwork](#2d-artwork)
 
   [2019](#2d-2019)
 
@@ -13,7 +13,7 @@
   
   [2023](#2d-2023)
   
-[3D Artwork](#3d-artwork)
+### [3D Artwork](#3d-artwork)
 
   [2020](#3d-2020)
   
@@ -23,7 +23,7 @@
   
   [2023](#3d-2023)
 
-[MORE](#more)
+### [MORE](#more)
 
   [Other Artists](#other-artists)
 
@@ -371,7 +371,7 @@ Two angles for my favorite fondant sculpture. 10/10 I love Totoro 💞💓💓�
 
 ---
 
-![Image of 3D coccolithophore render](Coccolithophore Render.png)
+![Image of 3D coccolithophore render](Coccolithophore_Render.png)
 
 August 3, 2023 | Digital
 
