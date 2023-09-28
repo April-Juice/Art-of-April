@@ -2,9 +2,16 @@
 ---
 
 @import "{{ cayman@v0.2.0 }}";
-.page-header {
-    color: #fff;
-    text-align: center;
-    background-color: #159957;
-    background-image: linear-gradient(120deg, #ffecb3, #159957)
-}
+<header class="page-header" role="banner">
+      <h1 class="project-name">Art of April</h1>
+      <h2 class="project-tagline">Art I made, both 2D and 3D throughout the years.</h2>
+      
+        <a href="https://www.instagram.com/april._.juice/" class="btn">@april._.juice on Instagram</a>
+    .page-header {
+        color: #fff;
+        text-align: center;
+        background-color: #159957;
+        background-image: linear-gradient(0deg, #ffecb3, #159957)
+    }
+</header>
+
