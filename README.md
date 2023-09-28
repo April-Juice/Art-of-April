@@ -320,12 +320,6 @@ August 2, 2022 | Fondant
 
 My first pretty pretty head.
 
-![Image of dunhuang feitian](IMG_3532.jpeg)
-
-August 9, 2022 | Fondant
-
-That same head on a body. I don't have a finished picture whoopsies 🤭
-
 ---
 
 ![Image of Totoro and Kirby](IMG_3581.jpeg)
@@ -338,7 +332,7 @@ I mostly made the Totoro (right). So cwuwuuyuute 🥺🥺🥺
 
 ### 3D 2023
 
-![Image of cat wearing hanbok](IMG_4313.jpeg)
+![Image of a cat wearing hanbok](IMG_4313.jpeg)
 
 January 15, 2023 | Fondant
 
