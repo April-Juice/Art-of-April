@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ cayman@v0.2.0 }}";
+@import "{{ site.theme }}";
 <header class="page-header" role="banner">
       <h1 class="project-name">Art of April</h1>
       <h2 class="project-tagline">Art I made, both 2D and 3D throughout the years.</h2>
