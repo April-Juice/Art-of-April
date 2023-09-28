@@ -15,13 +15,21 @@
   
 [3D Artwork](#3d-artwork)
 
-  [2020]
+  [2020](#3d-2020)
   
-  [2021]
+  [2021](#3d-2021)
   
-  [2022]
+  [2022](#3d-2022)
   
-  [2023]
+  [2023](#3d-2023)
+
+[MORE](#more)
+
+  [Other Artists](#other-artists)
+
+  [Additional Very Important Top Priority Information](#additional-very-important-top-priority-information)
+
+---
 
 
 
@@ -29,6 +37,8 @@
 ## 2D Artwork
 
   [2019](#2d-2019) | [2020](#2d-2020) | [2021](#2d-2021) | [2022](#2d-2022) | [2023](#2d-2023)
+
+---
 
 ### 2D 2019
 
@@ -127,7 +137,7 @@ Imagine roleplaying in Minecraft (I could never).
 
 ---
 
-![Image of George Washington sweater]
+![Image of George Washington sweater](IMG_2985.jpeg)
 
 December 16, 2021 | Print and Color Pencil on Paper
 
@@ -253,4 +263,136 @@ Meow
 
 ---
 
+
+
+
 ## 3D Artwork
+
+  [2020](#3d-2020) | [2021](#3d-2021) | [2022](#3d-2022) | [2023](#3d-2023)
+
+---
+
+### 3D 2020
+
+![Image of Baby Yoda Cake](IMG_0372.jpeg)
+
+March 12, 2020 | Fondant
+
+Baby Yoda but edible
+
+---
+
+### 3D 2021
+
+I don't have any pictures right now 🥺
+
+---
+
+### 3D 2022
+
+![Image of cat with clothes holding fish](IMG_3473.jpeg)
+
+July 18, 2022 | Fondant
+
+Meow pt 2
+
+---
+
+![Image of dragon with flower](IMG_3487.jpeg)
+
+July 21, 2022 | Fondant
+
+RAWRRRR
+
+---
+
+![Image of three heads](IMG_3493.jpeg)
+
+July 22, 2022 | Fondant
+
+Me and my homies posing for a picture
+
+---
+
+![Image of a head](IMG_3510.jpeg)
+
+August 2, 2022 | Fondant
+
+My first pretty pretty head.
+
+![Image of dunhuang feitian](IMG_3532.jpeg)
+
+August 9, 2022 | Fondant
+
+That same head on a body. I don't have a finished picture whoopsies 🤭
+
+---
+
+![Image of Totoro and Kirby](IMG_3581.jpeg)
+
+September 4, 2022 | Fondant
+
+I mostly made the Totoro (right). So cwuwuuyuute 🥺🥺🥺
+
+---
+
+### 3D 2023
+
+![Image of cat wearing hanbok](IMG_4313.jpeg)
+
+January 15, 2023 | Fondant
+
+Meow pt 3
+
+---
+
+![Image of green flower](IMG_4526.jpeg)
+
+February 19, 2023 | Fondant and Gum Paste(?)
+
+Please don't look at my crocs 😖😖😖
+
+---
+
+![Image of ominous girl with no arms](IMG_4695.jpeg)
+
+March 12, 2023 | Fondant
+
+She still has no arms or feet. She cannot catch you, but she is always watching.
+
+---
+
+![Image of Totoro and Mei top](IMG_5682.jpeg)
+![Image of Totoro and Mei side](IMG_5681.jpeg)
+
+June 14, 2023 | Fondant
+
+Two angles for my favorite fondant sculpture. 10/10 I love Totoro 💞💓💓💗💗💓💓💗💓💞😍😍😍😍😻😻😻
+
+---
+
+![Image of 3D coccolithophore render](Coccolithophore Render.png)
+
+August 3, 2023 | Digital
+
+My first blender render. So pretty!
+
+---
+
+## MORE
+
+### Other Artists
+
+Here are some super duper cool artists that you should totally go check out:
+
+1. ![@olive.hleaf on Instagram](https://www.instagram.com/olive.hleaf)
+
+2. ![@gh0stlh on Instagram](https://www.instagram.com/gh0stlh/)
+
+3. ![@catxyi on Instagram](https://www.instagram.com/catxyi/)
+
+### Additional Very Important Top Priority Information
+
+![Thumbs up with a lot of fingers](IMG_2981.jpeg)
+
+Me to myself after I make this so interesting and difficult website.
