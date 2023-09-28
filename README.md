@@ -151,7 +151,7 @@ George Washington 😍
 
 January 22, 2022 | Digital
 
-Composition so slay. Last drawing on my old iPad mini 🥺
+The composition is so scrumptious. Last drawing on my old iPad mini 🥺
 
 ---
 
@@ -167,15 +167,15 @@ Nancy Maria Donaldson Johnson (she made the ice cream machine) for history class
 
 April 28, 2022 | Digital
 
-Fanart for *Keeper of the Lost Cities* (nice book)
+Fanart for *Keeper of the Lost Cities* (very nice book)
 
 ---
 
-![Image of girl with umbrella](IMG_0159.png)
+![Image of girl with an umbrella](IMG_0159.png)
 
 May 18, 2022 | Digital
 
-Shalalala
+"Shalalala" - the rain
 
 ---
 
@@ -191,7 +191,7 @@ I drew this after a test 🤯
 
 November 17, 2022 | Digital
 
-For macromolecule cookbook assignment. I love 番茄炒蛋 (tomato and fried egg). Literally the yummiest thing ever 🤤🤤🤤😍😍
+For my macromolecule cookbook assignment. I love 番茄炒蛋 (tomato and fried egg), the yummiest thing ever 🤤🤤😍
 
 ---
 
@@ -217,7 +217,7 @@ AP World History reference???
 
 June 29, 2023 | Pencil on Paper
 
-Tried grid drawing on people. One milimeter can make such a big difference in the vibe of the drawing 😖
+Tried grid drawing on people. One millimeter can make such a big difference in the feelings of the drawing.
 
 ---
 
@@ -225,7 +225,7 @@ Tried grid drawing on people. One milimeter can make such a big difference in th
 
 July 4, 2023 | Whiteboard Marker on Whiteboard
 
-I don't know who, but someone erased half of the face 😿
+I don't know who, but someone erased half of the face 😡
 
 ---
 
@@ -249,7 +249,7 @@ Coccolithophore and coccolith!!! My algae!!!
 
 August 19, 2023 | Digital
 
-My handdrawn, super cool poster for the coccolithophore, emiliania huxleyi.
+My hand-drawn, super cool poster for the coccolithophore, *emiliania huxleyi*.
 
 ---
 
@@ -284,7 +284,7 @@ Baby Yoda but edible
 
 ### 3D 2021
 
-I don't have any pictures right now 🥺
+I don't have any pictures right now. Oops.
 
 ---
 
@@ -302,7 +302,7 @@ Meow pt 2
 
 July 21, 2022 | Fondant
 
-RAWRRRR
+RAWR
 
 ---
 
@@ -310,7 +310,7 @@ RAWRRRR
 
 July 22, 2022 | Fondant
 
-Me and my homies posing for a picture
+This is like me and my homies.
 
 ---
 
@@ -326,7 +326,7 @@ My first pretty pretty head.
 
 September 4, 2022 | Fondant
 
-I mostly made the Totoro (right). So cwuwuuyuute 🥺🥺🥺
+I mostly made the Totoro (right). So cute 🥺🥺🥺
 
 ---
 
@@ -361,7 +361,7 @@ She still has no arms or feet. She cannot catch you, but she is always watching.
 
 June 14, 2023 | Fondant
 
-Two angles for my favorite fondant sculpture. 10/10 I love Totoro 💞💓💓💗💗💓💓💗💓💞😍😍😍😍😻😻😻
+Two angles for my favorite fondant sculpture. 10/10 I love Totoro 💞💓💗💓💗💓💞😍😍😻😻😻
 
 ---
 
