@@ -1,13 +1,6 @@
 
 # Art of April
 
-<header class="page-header" role="banner">
-      <h1 class="project-name">Art of April</h1>
-      <h2 class="project-tagline">Art I made, both 2D and 3D throughout the years.</h2>
-      
-        <a href="https://www.instagram.com/april._.juice/" class="btn">@april._.juice on Instagram</a>
-</header>
-
 ## Index
 ### [2D Artwork ☆](#2d-artwork)
 
