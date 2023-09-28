@@ -1,9 +1,3 @@
-<html>
-  <head>
-    <link rel="stylesheet" href="style.css"/>
-  </head>
-</html>
-
 # Art of April
 
 ## Index
