@@ -1,11 +1,10 @@
-
-# Art of April
-
 <html>
   <head>
     <link rel="stylesheet" href="style.css"/>
   </head>
 </html>
+
+# Art of April
 
 ## Index
 ### [2D Artwork ☆](#2d-artwork)
