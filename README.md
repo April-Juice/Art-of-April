@@ -373,6 +373,14 @@ My first blender render. So pretty!
 
 ---
 
+![Image of moth girl cake](1A7A0056.jpg)
+
+October 7, 2023 | Fondant
+
+My magnum opus???
+
+---
+
 ---
 
 ## MORE
